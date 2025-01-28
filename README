@@ -1,0 +1,2 @@
+Change_Output_Device is a powershell script to select the pc audio device just pushing the key convination CTRL+PageUP or CTRL+PageDOWN.
+This script are tested and worked on Powershell7, it also import the modules: AudioDeviceCmdlets and BurntToast.
