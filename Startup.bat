@@ -1,0 +1,1 @@
+pwsh.exe -ExecutionPolicy RemoteSigned -WindowStyle Hidden -NoProfile -File "C:\Program Files\PSScripts\Change_Output_Device2.0.ps1"
